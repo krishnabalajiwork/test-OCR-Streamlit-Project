@@ -7,8 +7,7 @@ A powerful web application for extracting text from images using **EAST deep lea
 ## 🚀 Live Demo
 
 Deploy this app instantly on:
-- **Streamlit Cloud**: [share.streamlit.io](https://share.streamlit.io) (FREE)
-- **Hugging Face Spaces**: [huggingface.co/spaces](https://huggingface.co/spaces) (FREE)
+- **Streamlit Cloud**: https://test-ocr-east.streamlit.app
 
 ## ✨ Features
 
@@ -164,9 +163,7 @@ black app.py utils/
 
 ## 📞 Support & Issues
 
-- 🐛 **Bug Reports**: [Open an issue](https://github.com/your-username/OCR-Streamlit-Project/issues)
-- 💡 **Feature Requests**: [Start a discussion](https://github.com/your-username/OCR-Streamlit-Project/discussions)
-- 📧 **Contact**: your-email@example.com
+- 📧 **Contact**: krishnabalajiwork@gmail.com
 - 📖 **Documentation**: See `DEPLOY.md` for deployment help
 
 ## 📄 License
